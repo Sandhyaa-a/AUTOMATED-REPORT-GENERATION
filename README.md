@@ -1,20 +1,5 @@
 # Task 2 - Automated Report Generation
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: SANDHYA KUMARI
-
-*INTERN ID*: CT04DF659
-
-*DOMAIN*: PYTHON PROGRAMMING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
----
-
-
 ## 📄 Description
 
 This task required the development of a script to read data from a **CSV file**, perform basic **statistical analysis**, and generate a **formatted PDF report** using Python. The objective was to automate the reporting process without relying on manual formatting or external applications.
